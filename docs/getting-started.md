@@ -21,3 +21,9 @@ You can also look at this [example install script](https://gist.github.com/jhcar
 - `sencha app build --run android` or `ios`
 - Uses connected phone or `android avd` emulator.
 - You can also open the Xcode project in *platforms/ios*.
+
+## iTunes Connect
+
+- Manually verify the app's display name and bundler identifier are the same as in iTunes Connect
+- Disable and Re-enable Automatic Signing
+- Invent a new version and build number before archiving

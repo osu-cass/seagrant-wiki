@@ -4,11 +4,11 @@
 
 ```xml
 <?xml version='1.0' encoding='utf-8'?>
-<!-- id will become the app's namespace or identifier -->
+<!-- id will become the app's namespace or identifier, use the same as iTunes Connect -->
 <!-- version will be used by app stores and analytics, update it -->
-<widget id="edu.oregonstate.cass.OregonsCatch" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="edu.oregonstate.cass.WhatsFreshMobile" version="1.3.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 
-  <!-- Self explanatory -->
+  <!-- This is the name that shows up on the springboard/app list of the phone. -->
   <name>Oregon's Catch</name>
   <description>
     A catalog of fresh sea food available on the Oregon coast.
