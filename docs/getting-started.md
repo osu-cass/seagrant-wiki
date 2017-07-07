@@ -6,7 +6,7 @@
 
 - Install [Xcode](https://developer.apple.com/xcode/)
 - Install [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-- Install [Node.js](https://nodejs.org/)
+- Install [Node.js](https://nodejs.org/) (don't sudo npm commands)
 - Install [Sencha Cmd](https://www.sencha.com/products/sencha-cmd/)
 - Install [Android SDK](https://developer.android.com/studio/index.html)
 - Install [cordova-icon](https://github.com/AlexDisler/cordova-icon)
