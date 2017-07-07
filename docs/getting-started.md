@@ -10,7 +10,7 @@
 - Install [Sencha Cmd](https://www.sencha.com/products/sencha-cmd/)
 - Install [Android SDK](https://developer.android.com/studio/index.html)
 - Install [cordova-icon](https://github.com/AlexDisler/cordova-icon)
-- `sudo npm i -g cordova phonegap`
+- `npm i -g cordova phonegap`
 - `git clone ...`
 
 You can also look at this [example install script](https://gist.github.com/jhcarr/c0276b2978b8603c74e3) Justin made for an Ubuntu machine.
