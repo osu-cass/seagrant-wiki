@@ -1,5 +1,7 @@
 # Oregon Sea Grant Sencha Apps
 
+IMPORTANT: This repo is no longer under development and has been archived.
+
 - [Getting Started](docs/getting-started.md) for student developers
 - [Directory](docs/directory.md) outline of the projects
 - [Cordova/PhoneGap's config.xml](docs/config.xml.md) deserves its own description
